@@ -1,7 +1,7 @@
 repo-ejemplo
 ============
 
-Ejempl de repositorio para trabajar en el
+Ejempladfadfad de repositorio para trabajar en el
 [curso de `git`](http://cevug.ugr.es/git) el contenido del cual está
 en
 [este otro repositorio de GitHub](http://github.com/oslugr/curso-git). 
